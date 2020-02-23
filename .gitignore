@@ -1,0 +1,9 @@
+## MacOS
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Data files
+data/*
