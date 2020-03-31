@@ -6,4 +6,8 @@
 .LSOverride
 
 # Data files
-data/*
+data/immutable/
+data/unified/
+
+# ipython
+.ipynb_checkpoints/
